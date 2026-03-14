@@ -93,7 +93,7 @@ const subhro = {
 │                              ↕                          │
 │                     Redis (Cache/Queue)                 │
 │                              ↕                          │
-│              AWS (EC2 / S3 / Lambda / SQS)             │
+│              AWS (EC2 / S3 / Lambda / SQS)              │
 │                              ↕                          │
 │             Grafana + Prometheus (Observability)        │
 │                                                         │
